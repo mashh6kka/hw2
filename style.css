@@ -1,0 +1,32 @@
+h1{
+    color: rgb(221, 32, 32);
+    background-color: rgb(248, 245, 63);
+}
+h2{
+    color: rgb(138, 77, 77);
+    background-color: rgb(168, 112, 175);
+}
+table,
+td, th{
+    border: 3px solid black;
+}
+
+table{
+    border-spacing: 0;
+}
+.marj{
+    border-right: none;
+}
+.marc{
+    border-left: none;
+}
+.prp{
+    background-color: purple;
+    
+}
+.sxv{
+    background-color: aqua;
+}
+.pac {
+    background-color: aqua;
+}
